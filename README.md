@@ -17,4 +17,7 @@
 
     $ node node_lucioles_v2.js
 
+## BUG
 
+   - Si votre esp bloque et affiche plusieurs fois : "Attempting MQTT connection..."
+   - Il faut modifier -> if(client.connect("Thomas", "try", "try")) { // Attempt to connect  "Thomas" par un autre nom d'utilisateur
