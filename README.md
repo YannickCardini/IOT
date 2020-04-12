@@ -1,9 +1,8 @@
 ## ESP32 Pin
 
-Led 19
-Photo resistor A0
-Capteur Temperature 23
-
+    $ Led 19
+    $ Photo resistor A0
+    $ Capteur Temperature 23
 
 ## Install
 
