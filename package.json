@@ -1,0 +1,12 @@
+{
+    "name": "mon-app",
+    "version": "0.1.0",
+    "dependencies": {
+        "express": "^4.17.1",
+        "mangodb": "^1.0.0",
+        "markdown": "~0.4",
+        "mongodb": "~3.5.5",
+        "mqtt": "^3.0.0",
+        "socket.io": "^2.3.0"
+    }
+}
