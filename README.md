@@ -5,6 +5,7 @@
    - Capteur Temperature  pin 23
    
    Il faut changer le ssid et le password dans le fichier net_misc pour que l'arduino se connecte à internet.
+    
 
 ## Install
 
@@ -14,6 +15,6 @@
 
 ## Running the project
 
-    $ npm start
+    $ npm node node_lucioles_v2.js
 
 
