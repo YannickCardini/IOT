@@ -15,6 +15,6 @@
 
 ## Running the project
 
-    $ npm node node_lucioles_v2.js
+    $ node node_lucioles_v2.js
 
 
